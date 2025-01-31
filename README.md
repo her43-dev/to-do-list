@@ -15,6 +15,7 @@ Welcome to the Coquette To-Do List website! This app is designed to help you man
 ## Demo
 You can see the live demo of the app by clicking on this link.
 
+ https://her43-dev.github.io/to-do-list/
 ## Installation
 To run this project locally on your machine:
 
