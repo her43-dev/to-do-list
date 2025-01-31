@@ -1,22 +1,27 @@
 # Coquette To-Do List 💖
 
-Welcome to the Coquette To-Do List website! This app is designed to help you manage your tasks in the most adorable way possible, with a cute and playful theme that brings a smile to your face while you get things done. 
+Welcome to the Coquette To-Do List website! This app is designed to help you manage your tasks in the most adorable way possible, with a cute and playful theme that brings a smile to your face while you get things done. Whether you're in a lighthearted mood or need to get serious about your tasks, the app offers a delightful interface to keep you organized.
 
 ## Features
-- Cute Coquette Theme
-- Task Creation
-- Dark Mode
-- Task Filters
-- Task Editing
-- Task Completion
-- Task Deletion
+- **Cute Coquette Theme**: A fun, coquette-inspired design with playful icons like hearts and bows.
+- **Task Creation**: Easily add tasks with priority levels (Low, Medium, High) and due dates.
+- **Dark Mode**: Switch between light and dark modes for a personalized experience.
+- **Task Filters**: Organize your tasks by categories — All, Active, or Completed.
+- **Task Editing**: Edit your tasks, change priorities, or update due dates.
+- **Task Completion**: Mark tasks as completed and undo if needed.
+- **Task Deletion**: Remove tasks you no longer need.
+- **Back to Top**: Easily scroll back to the top of the page with the back-to-top button.
+
+## Demo
+You can see the live demo of the app by clicking on this link.
 
 ## Installation
 To run this project locally on your machine:
 
 1. Clone this repository:
+
     ```bash
-    git clone https://github.com/her43-dev/to-do-list.git
+    git clone https://github.com/yourusername/your-repository.git
     ```
 
 2. Open the `index.html` file in your browser.
